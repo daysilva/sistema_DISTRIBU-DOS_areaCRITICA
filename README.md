@@ -1,0 +1,1 @@
+Projeto universitário em que estou desenvolvendo um socket para a recepção de clientes. Esses clientes buscarão acessar um recurso compartilhado, representado pelo saldo de uma conta bancária. Por meio da aplicação do algoritmo de exclusão mútua, estabelecemos um controle sobre quais clientes podem ter acesso ao recurso em determinado momento.
